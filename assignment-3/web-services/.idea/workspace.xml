@@ -4,36 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d21754c5-d0a4-4acb-af11-5e41e31597d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/CentralRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/RunClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/menu/AdminAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/menu/CustomerAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/menu/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/server/theatre/Theatre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/server/theatre/TheatreMetaData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/server/theatre/movie/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/server/theatre/movie/Slot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/server/theatre/query/Actions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/server/theatre/query/Query.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/server/theatre/web/AdminService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/server/theatre/web/CustomerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/server/theatre/web/Publisher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/Admin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/Commands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/Logger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-services.iml" afterDir="false" />
-    </list>
+    <list default="true" id="d21754c5-d0a4-4acb-af11-5e41e31597d9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -132,7 +103,7 @@
       <option name="presentableId" value="Default" />
       <updated>1678553163515</updated>
       <workItem from="1678553164686" duration="4740000" />
-      <workItem from="1678569999479" duration="680000" />
+      <workItem from="1678569999479" duration="1360000" />
     </task>
     <servers />
   </component>
