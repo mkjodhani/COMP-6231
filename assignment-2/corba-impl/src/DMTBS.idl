@@ -1,0 +1,16 @@
+// Usd SDK 1.8
+// /Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/bin/idlj
+
+module CORBA{
+    interface Customer{
+        wstring exchangeTickets(in wstring customerID,in wstring oldMovieName,in wstring movieID,in wstring newMovieID,in wstring newMovieName,in long numberOfTickets);
+        wstring bookMovieTickets (in wstring customerID, in wstring movieID, in wstring movieName, in long numberOfTickets);
+        wstring getBookingSchedule (in wstring customerID);
+        wstring cancelMovieTickets (in wstring customerID, in wstring movieID, in wstring movieName, in long numberOfTickets);
+    };
+    interface Admin{
+        wstring addMovieSlots (in wstring  movieID, in wstring  movieName, in long  bookingCapacity);
+        wstring removeMovieSlots (in wstring  movieID, in wstring  movieName);
+        wstring listMovieShowsAvailability (in wstring  movieName);
+    };
+};
