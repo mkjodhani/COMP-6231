@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d21754c5-d0a4-4acb-af11-5e41e31597d9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/CentralRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/RunClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/menu/AdminAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/menu/CustomerAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/menu/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server/theatre/Theatre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server/theatre/TheatreMetaData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server/theatre/movie/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server/theatre/movie/Slot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server/theatre/query/Actions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server/theatre/query/Query.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server/theatre/web/AdminService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server/theatre/web/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server/theatre/web/Publisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/Commands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-services.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MsP73osjiKbwFuTKvOlPlCtUXR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/mkjodhani/Documents/GitHub/comp-6231-winter-23/assignment-3/web-services",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Atwater" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="server.theatre.Theatre" />
+      <module name="web-services" />
+      <option name="PROGRAM_PARAMETERS" value="Atwater ATW 5051" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="client.RunClient" />
+      <module name="web-services" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Outremont" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="server.theatre.Theatre" />
+      <module name="web-services" />
+      <option name="PROGRAM_PARAMETERS" value="Outremont OUT 5053" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Verdun" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="server.theatre.Theatre" />
+      <module name="web-services" />
+      <option name="PROGRAM_PARAMETERS" value="Verdun VER 5052" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Atwater" />
+      <item itemvalue="Application.Outremont" />
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.Verdun" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d21754c5-d0a4-4acb-af11-5e41e31597d9" name="Changes" comment="" />
+      <created>1678553163515</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678553163515</updated>
+      <workItem from="1678553164686" duration="4740000" />
+      <workItem from="1678569999479" duration="680000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
